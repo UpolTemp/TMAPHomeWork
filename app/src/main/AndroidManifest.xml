@@ -23,6 +23,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".FormActivity"
+            android:label="Form Activity">
+        </activity>
+
+        <activity
+            android:name=".DataShowActivity"
+            android:label="Data reassurance activity">
+        </activity>
     </application>
 
 </manifest>
